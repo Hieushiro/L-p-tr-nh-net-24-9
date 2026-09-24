@@ -1,0 +1,17 @@
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\bin\Debug\net10.0-windows\FormDangKyHocVien.exe
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\bin\Debug\net10.0-windows\FormDangKyHocVien.deps.json
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\bin\Debug\net10.0-windows\FormDangKyHocVien.runtimeconfig.json
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\bin\Debug\net10.0-windows\FormDangKyHocVien.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\bin\Debug\net10.0-windows\FormDangKyHocVien.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.Form1.resources
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.csproj.GenerateResource.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.AssemblyInfoInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.AssemblyInfo.cs
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.csproj.CoreCompileInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\refint\FormDangKyHocVien.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDangKyHocVien.genruntimeconfig.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\ref\FormDangKyHocVien.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDangKyHocVien\FormDangKyHocVien\obj\Debug\net10.0-windows\FormDang.22942F93.Up2Date

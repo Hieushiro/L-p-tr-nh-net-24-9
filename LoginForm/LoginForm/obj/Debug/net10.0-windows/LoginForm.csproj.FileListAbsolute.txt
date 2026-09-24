@@ -1,0 +1,17 @@
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\bin\Debug\net10.0-windows\LoginForm.exe
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\bin\Debug\net10.0-windows\LoginForm.deps.json
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\bin\Debug\net10.0-windows\LoginForm.runtimeconfig.json
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\bin\Debug\net10.0-windows\LoginForm.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\bin\Debug\net10.0-windows\LoginForm.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.Form1.resources
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.csproj.GenerateResource.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.AssemblyInfoInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.AssemblyInfo.cs
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\refint\LoginForm.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.genruntimeconfig.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\ref\LoginForm.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\LoginForm\LoginForm\obj\Debug\net10.0-windows\LoginForm.csproj.Up2Date
